@@ -84,7 +84,7 @@ This project leverages multiple advanced Power BI functionalities:
 
 ## 📩 Contact & Connect
 
-- 🔗 LinkedIn: [Tanvir Taushif](https://www.linkedin.com/in/osmanwafie/) 
+- 🔗 LinkedIn: [Osman Wafie](https://www.linkedin.com/in/osmanwafie/) 
 - 📧 Email: osmanwafie888@gmail.com  
 
 ---
