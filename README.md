@@ -49,16 +49,16 @@ This project leverages multiple advanced Power BI functionalities:
 ## 📷 Screenshots
 
 ### 🔹 Dashboard Overview
-![Dashboard](Dashboard.JPG)
+![Dashboard](https://github.com/osmanwafie/Hotel-chain-performance-Analysis-PowerBI/blob/865ce13e42e0c507350659dd793eb7b0894fbd35/Images/Dashboard.JPG)
 
 ### 🔹 Tooltip & Drillthrough Example
-![Tooltip](Dashboard_with_tooltip.JPG)
+![Tooltip](https://github.com/osmanwafie/Hotel-chain-performance-Analysis-PowerBI/blob/865ce13e42e0c507350659dd793eb7b0894fbd35/Images/Dashboard_with_tooltip.JPG)
 
 ### 🔹 Booking Platform Drillthrough
-![Platform](Platform_Drill_Through.JPG)
+![Platform](https://github.com/osmanwafie/Hotel-chain-performance-Analysis-PowerBI/blob/865ce13e42e0c507350659dd793eb7b0894fbd35/Images/Platform%20Drill%20Through.JPG)
 
 ### 🔹 Recommendations & Insights
-![Recommendation](Recommentdation.JPG)
+![Recommendation](https://github.com/osmanwafie/Hotel-chain-performance-Analysis-PowerBI/blob/865ce13e42e0c507350659dd793eb7b0894fbd35/Images/Recommentdation.JPG)
 
 ---
 
@@ -84,8 +84,8 @@ This project leverages multiple advanced Power BI functionalities:
 
 ## 📩 Contact & Connect
 
-- 🔗 LinkedIn: Tanvir Taushif  
-- 📧 Email: tanvirpial9961@gmail.com  
+- 🔗 LinkedIn: [Tanvir Taushif](https://www.linkedin.com/in/osmanwafie/) 
+- 📧 Email: osmanwafie888@gmail.com  
 
 ---
 
